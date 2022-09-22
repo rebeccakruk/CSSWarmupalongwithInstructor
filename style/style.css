@@ -1,0 +1,16 @@
+#logo {
+    height: 100px;
+}
+
+.comicphoto {
+    height: 250px;
+}
+
+#copyright {
+    font-size: 12px;
+    font-style: italic;
+}
+
+html {
+    background-color: bisque;
+}
